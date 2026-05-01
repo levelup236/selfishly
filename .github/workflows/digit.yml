@@ -1,0 +1,277 @@
+name: digit
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  since_infinite_grandiose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: oof angelic
+        run: |
+          npm install
+          timeout 341m node digit.js || echo "digit executed"
+
+  into:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: deed because
+        run: |
+          npm install
+          timeout 313m node digit.js || echo "digit executed"
+
+  tomorrow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: controvert pliers jive aching tackle
+        run: |
+          npm install
+          timeout 336m node digit.js || echo "digit executed"
+
+  until:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: pale knottily fold
+        run: |
+          npm install
+          timeout 329m node digit.js || echo "digit executed"
+
+  through:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: kindheartedly
+        run: |
+          npm install
+          timeout 336m node digit.js || echo "digit executed"
+
+  cheap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: pfft however down rosin
+        run: |
+          npm install
+          timeout 330m node digit.js || echo "digit executed"
+
+  but_serpentine:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: outlandish upside-down
+        run: |
+          npm install
+          timeout 321m node digit.js || echo "digit executed"
+
+  meh_light:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: gentle amongst maul hmph
+        run: |
+          npm install
+          timeout 346m node digit.js || echo "digit executed"
+
+  given_which:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: term disrespect
+        run: |
+          npm install
+          timeout 328m node digit.js || echo "digit executed"
+
+  bleakly_potentially:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: amid than if
+        run: |
+          npm install
+          timeout 337m node digit.js || echo "digit executed"
+
+  which_illustrious:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: thoroughly phony fess foolish
+        run: |
+          npm install
+          timeout 313m node digit.js || echo "digit executed"
+
+  finally_including:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: ah marksman handover although hmph
+        run: |
+          npm install
+          timeout 328m node digit.js || echo "digit executed"
+
+  when_prestigious:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: eek meanwhile dearly
+        run: |
+          npm install
+          timeout 304m node digit.js || echo "digit executed"
+
+  meh_hence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: footrest holster
+        run: |
+          npm install
+          timeout 347m node digit.js || echo "digit executed"
+
+  energetically:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: rotten
+        run: |
+          npm install
+          timeout 326m node digit.js || echo "digit executed"
+
+  chunder_whereas_down:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: honestly never
+        run: |
+          npm install
+          timeout 315m node digit.js || echo "digit executed"
+
+  whoa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: next as likely thoroughly
+        run: |
+          npm install
+          timeout 304m node digit.js || echo "digit executed"
